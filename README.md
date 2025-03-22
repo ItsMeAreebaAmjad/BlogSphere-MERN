@@ -30,6 +30,8 @@ The MERN Blog App is a full-stack web application that allows users to create, r
   ![Screenshot2](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image2.png)
   ![Screenshot3](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image3.png)
   ![Screenshot4](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image4.png)
+  ![Screenshot5](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image5.png)
+  ![Screenshot6](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image6.png)
 
 ### Clone the repository  
 ```sh
