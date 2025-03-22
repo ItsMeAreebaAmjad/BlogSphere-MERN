@@ -33,5 +33,5 @@ The MERN Blog App is a full-stack web application that allows users to create, r
 
 ### Clone the repository  
 ```sh
-git clone https://github.com/your-username/mern-blog-app.gi
+git clone https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN
 cd mern-blog-app
