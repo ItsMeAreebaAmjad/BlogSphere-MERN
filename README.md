@@ -23,9 +23,15 @@ The MERN Blog App is a full-stack web application that allows users to create, r
 - Node.js  
 - Express.js  
 - MongoDB  
-- Mongoose   
+- Mongoose
+
+- ## Screenshots
+  ![Screenshot1](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image1.png)
+  ![Screenshot2](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image2.png)
+  ![Screenshot3](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image3.png)
+  ![Screenshot4](https://github.com/ItsMeAreebaAmjad/BlogSphere-MERN/blob/main/image4.png)
 
 ### Clone the repository  
 ```sh
-git clone https://github.com/your-username/mern-blog-app.git
+git clone https://github.com/your-username/mern-blog-app.gi
 cd mern-blog-app
